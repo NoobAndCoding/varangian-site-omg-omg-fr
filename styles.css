@@ -117,8 +117,7 @@
     text-align: center;
     margin-top: 30px;
     color:rgb(253, 209, 13);
-    display: flex;
-    justify-content: center;
+    border: 3px solid rgb(253, 209, 13);
   }
 
   td {
@@ -129,4 +128,9 @@
 
   .Starter {
     background-color: #e6e6de;
+  }
+
+  .table-container {
+    display: flex;
+    justify-content: center;
   }
