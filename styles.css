@@ -117,9 +117,7 @@
     border-radius: 10px;
     text-align: center;
     margin-top: 30px;
-    color:rgb(253, 209, 13);
-    padding: 30px;
-    border: 2px dotted rgb(253, 209, 13);    
+    color:rgb(253, 209, 13);   
   }
 
   td {
@@ -139,4 +137,6 @@
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
+    padding: 30px;
+    border: 2px dotted rgb(253, 209, 13); 
   }
