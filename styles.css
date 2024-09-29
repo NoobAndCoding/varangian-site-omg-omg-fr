@@ -73,3 +73,35 @@
     float: left;
     display: block;
   }
+
+  .Varangos {
+    background-color:#b4a7d6;
+  }
+
+  .Pelekites {
+    background-color: #8e7cc3;
+  }
+
+  .PelekyphorosPhrora {
+    background-color: #351c75;
+  }
+
+  .Arxifrouros {
+    background-color: #5b2991;
+  }
+
+  .Kapetanios {
+    background-color: #351c75;
+  }
+
+  .Akolouthos {
+    background-color: #20124d;
+  }
+
+  table {
+    border: 1px solid rgb(253, 209, 13);
+  }
+
+  td {
+    border: 1px solid rgb(253, 209, 13)
+  }
