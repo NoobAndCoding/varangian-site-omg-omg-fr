@@ -69,6 +69,11 @@
     0% { opacity: 0; }
     100% { opacity: 1; }
   }
+  .Applicant {
+    background-color: #aa9a7d
+  }
+
+
   .logo {
     float: left;
     display: block;
@@ -101,7 +106,11 @@
   table {
     border: 2px solid rgb(253, 209, 13);
     border-collapse:collapse;
-    font-size: 17px
+    font-size: 17px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #1d0a44;
+    margin: 30px;
   }
 
   td {
