@@ -119,7 +119,6 @@
     margin-top: 30px;
     color:rgb(253, 209, 13);
     display: block;
-    padding: 30px;
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
@@ -131,7 +130,3 @@
     color: rgb(253, 209, 13)
   }
 
-  table.center {
-    margin-left: auto;
-    margin-right: auto;
-  }
