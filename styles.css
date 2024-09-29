@@ -135,8 +135,7 @@
     justify-content: center;
     background-color:#351c75;
     border-radius: 10px;
-    margin-left: auto;
-    margin-right: auto;
     padding: 30px;
     border: 2px dotted rgb(253, 209, 13); 
+    max-width: 800px;
   }
