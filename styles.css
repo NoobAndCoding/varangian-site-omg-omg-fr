@@ -112,6 +112,9 @@
     background-color: #1d0a44;
     margin: 30px;
     color:rgb(253, 209, 13);
+    display: block;
+    padding: 30px;
+    justify-content: center;
   }
 
   td {
