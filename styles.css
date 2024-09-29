@@ -82,7 +82,7 @@
     background-color: #8e7cc3;
   }
 
-  .PelekyphorosPhrora {
+  .PelekyphorosPhroura {
     background-color: #351c75;
   }
 
@@ -99,8 +99,9 @@
   }
 
   table {
-    border: 1px solid rgb(253, 209, 13);
+    border: 2px solid rgb(253, 209, 13);
     border-collapse:collapse;
+    font-size: 17px
   }
 
   td {
