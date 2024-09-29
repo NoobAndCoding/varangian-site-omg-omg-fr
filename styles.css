@@ -138,4 +138,6 @@
     background-color:#351c75;
     border-radius: 10px;
     border: 2px dotted rgb(253, 209, 13);
+    padding-left: 10px;
+    padding-right: 10px;
   }
