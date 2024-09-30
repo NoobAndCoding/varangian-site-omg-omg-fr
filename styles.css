@@ -80,6 +80,10 @@
     display: block;
   }
 
+  .logo:hover {
+    cursor: pointer;
+  }
+
   .Varangos {
     background-color:#b4a7d6;
     border-left: 3px solid rgb(253, 209, 13);
